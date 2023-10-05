@@ -1,5 +1,7 @@
 ### Olá, eu sou o Dinael Domingos, desenvolvedor front-end em formação 👋
 
+![DinaelDomingos GitHub stats](https://github-readme-stats.vercel.app/api?username=dinaeldomingos&show_icons=true&theme=radical)
+
 
 
 - 🔭 Atualmente, trabalho em um banco público;
